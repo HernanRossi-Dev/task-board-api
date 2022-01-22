@@ -31,7 +31,7 @@
     "mongodb": "^3.5.9",
     "mongoose": "^5.9.19",
     "mongoose-unique-validator": "^2.0.3",
-    "nanoid": "^3.1.10",
+    "nanoid": "^3.1.31",
     "pm2": "^4.4.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.5.5",
